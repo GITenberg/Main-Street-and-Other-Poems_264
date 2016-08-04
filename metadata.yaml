@@ -1,0 +1,29 @@
+_repo: Main-Street-and-Other-Poems_264
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kilmer, Joyce
+    alias: Kilmer, Alfred Joyce
+    birthdate: 1886
+    deathdate: 1918
+    gutenberg_agent_id: '149'
+    url: http://www.gutenberg.org/2009/agents/149
+    wikipedia: http://en.wikipedia.org/wiki/Joyce_Kilmer
+description: Main street.-Roofs.-The snowman in the yard.-A blue valentine.-Houses.-In
+  memory.-Apology.-The proud poet.-Lionel Johnson.-Father Gerard Hopkins, S.J.-Gates
+  and doors.-The robe of Christ.-The singing girl.-The annunciation.-Roses.-The visitation.-Multiplication.-Thanksgiving.
+gutenberg_issued: '2008-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '264'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'City and town life -- Poetry'
+- !lcc 'PS'
+- !lcsh 'Poetry, Modern -- 20th century'
+- GITenberg
+title: Main Street, and Other Poems
+url: http://www.gutenberg.org/ebooks/264
